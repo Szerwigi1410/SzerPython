@@ -19,5 +19,5 @@ pytanie = input("Wanna start coding? tak/nie: ")
 if pytanie == True or pytanie == "tak":
     disp("So lets start!")
 else:
-    disp("Syabu YSN")
+    disp("Goodbye fpr now!")
     exit()
