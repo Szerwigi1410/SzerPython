@@ -5,9 +5,13 @@ tak = True
 hw = "Hello World!"
 ws = "Witaj Świecie"
 
+papa = exit
 
+cyf = int # cyf = cyferki
+zda = str # zda = zdanie
+wpisz = input
 
-
+"""
 disp("Welcome to SherPython!")
 disp("Szerwigi's very own programming language!")
 disp("Instead of print use disp")
@@ -21,3 +25,4 @@ if pytanie == True or pytanie == "tak":
 else:
     disp("Goodbye fpr now!")
     exit()
+"""
