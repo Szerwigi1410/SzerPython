@@ -11,3 +11,8 @@
  - cyf = int # cyf = cyferki
  - zda = str # zda = zdanie
  - wpisz = input
+ - 
+---
+
+# Why is ```new_document.py``` here
+It's here as your new project template
